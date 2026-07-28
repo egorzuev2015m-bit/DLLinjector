@@ -1,0 +1,3 @@
+﻿  Injector.cpp
+D:\DLLinjector\DLLinjector\Injector.cpp(285,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  DLLinjector.vcxproj -> D:\DLLinjector\x64\Debug\DLLinjector.exe
